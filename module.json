@@ -1,0 +1,22 @@
+{
+    "name": "myz-compendium",
+    "title": "MYZ Compendium",
+    "description": "Compendium for the MYZ Series",
+    "author": "NimH",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion" : "0.7.9",
+    "packs": [
+        {
+            "name": "myz-weapons",
+            "label": "Weapons",
+            "system": "mutant-year-zero",
+            "path": "./packs/myz-weapons.db",
+            "entity": "Item"
+        }
+    ],
+    "url": "https://github.com/sebastien17/myz-compendium",
+	"manifest": "",
+	"download": "https://github.com/sebastien17/myz-compendium",
+	"readme": "https://github.com/sebastien17/myz-compendium"
+  }
