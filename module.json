@@ -16,7 +16,7 @@
         }
     ],
     "url": "https://github.com/sebastien17/myz-compendium",
-	"manifest": "https://raw.githubusercontent.com/sebastien17/myz-compendium/main/module.json",
-	"download": "https://github.com/sebastien17/myz-compendium",
-	"readme": "https://github.com/sebastien17/myz-compendium"
+	"manifest": "https://raw.githubusercontent.com/sebastien17/myz-compendium/0.0.1/module.json",
+	"download": "https://github.com/sebastien17/myz-compendium/archive/0.0.1.zip",
+	"readme": "https://github.com/sebastien17/myz-compendium/blob/master/README.md"
   }
