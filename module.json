@@ -3,7 +3,7 @@
     "title": "MYZ Compendium",
     "description": "Compendium for the MYZ Series",
     "author": "NimH",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "minimumCoreVersion": "0.7.9",
     "compatibleCoreVersion" : "0.7.9",
     "packs": [
@@ -16,7 +16,7 @@
         }
     ],
     "url": "https://github.com/sebastien17/myz-compendium",
-	"manifest": "",
+	"manifest": "https://raw.githubusercontent.com/sebastien17/myz-compendium/main/module.json",
 	"download": "https://github.com/sebastien17/myz-compendium",
 	"readme": "https://github.com/sebastien17/myz-compendium"
   }
